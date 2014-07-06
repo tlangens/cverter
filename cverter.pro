@@ -15,8 +15,9 @@ SOURCES += src/cverter.cpp
 OTHER_FILES += qml/cverter.qml \
     qml/cover/CoverPage.qml \
     qml/pages/FirstPage.qml \
-    qml/pages/SecondPage.qml \
     rpm/cverter.spec \
     rpm/cverter.yaml \
-    cverter.desktop
+    cverter.desktop \
+    qml/pages/storage.js \
+    qml/pages/UnitManager.qml
 
